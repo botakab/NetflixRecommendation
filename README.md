@@ -8,6 +8,9 @@ identifying movies that are frequently favored together.
 Additionally, the project involves building and testing the recommendation system itself.
 
 This repo includes following files:
+
 Netflix Recommendation Kaggle Competition.pdf - a final report outlining the project details and results
+
 Pattern_Mining.ipynb - a Google Colab notebook containing the code piece for pattern mining task
+
 CFmodel+embeddings.ipynb - a Google Colab notebook containing the code piece for model training and testing
